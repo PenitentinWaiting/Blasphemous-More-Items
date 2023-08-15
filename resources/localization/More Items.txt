@@ -1,15 +1,15 @@
 lang: en
 
-ctname: Charge Time name
-ctdesc: Charge Time description
+ctname: Shard of an Executioner's Axe
+ctdesc: A small rusted piece of an executioner's axe. Significantly decreases the charge up time of the charged attack. 
 ctlore: Charge Time lore
 
-gfname: Guilt Fragment name
-gfdesc: Guilt Fragment description
+gfname: Helmet Covered in Ash and Blood
+gfdesc: This old worn helmet is caked in dried blood and ashes. It feels bizarrely familiar somehow. Increases the benefits of picking up your guilt fragments. 
 gflore: Guilt Fragment lore
 
-drname: Damage Removal name
-drdesc: Damage Removal description
+drname: Soccoro's Ribbon
+drdesc: Bloody length of soft cord used to bind the holy Lady Soccoro. It gives off a soothing warmth still. Completely negates the first instance of damage taken but will no longer work until resting at a Prie Dieu.
 drlore: Damage Removal lore
 
 acname: Amanecida Core name
